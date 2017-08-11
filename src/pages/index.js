@@ -14,26 +14,26 @@ export default () =>
    <Flavour
      name='black raspberry'
      url='https://s3.amazonaws.com/pinkberry-menu/blackberry.jpg'
-     to='blackraspberry'
+     to='/blackraspberry/'
    />
    <Flavour
      name='power berry'
      url='https://s3.amazonaws.com/pinkberry-menu/strawberry.jpg'
-     to='powerberry'
+     to='/powerberry/'
    />
    <Flavour
      name='pomegranate'
      url='https://s3.amazonaws.com/pinkberry-menu/pomegranate.jpg'
-     to='pomegranate'
+     to='/pomegranate/'
    />
    <Flavour
      name='original'
      url='https://s3.amazonaws.com/pinkberry-menu/original.jpg'
-     to='original'
+     to='/original/'
    />
    <Flavour
      name='blood orange'
      url='https://s3.amazonaws.com/pinkberry-menu/bloodorange.jpg'
-     to='bloodorange'
+     to='/bloodorange/'
    />
  </div>
